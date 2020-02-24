@@ -1,7 +1,7 @@
 package 玩转数据结构.数组;
 
 /**
- * 测试泛型配合类Array03
+ * 测试泛型-配合类Array03
  * @Author bennyrhys
  * @Date 2020-02-24 21:07
  */
