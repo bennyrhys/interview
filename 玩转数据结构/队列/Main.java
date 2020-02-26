@@ -3,9 +3,10 @@ package 玩转数据结构.队列;
 import java.util.Random;
 
 /**
- * 测试-手撕普通队列 和 优化的循环队列 复杂度影响的结果
- * ArrayQueue, time: 3.664298722 s
- * LoopQueue, time: 0.025444962 s
+ * 测试-手撕普通队列 和 优化的循环队列 和 链表队列复杂度影响的结果
+ * ArrayQueue, time: 3.575668488 s
+ * LoopQueue, time: 0.021933179 s
+ * LinkedListQueue, time: 0.025648846 s
  * @Author bennyrhys
  * @Date 2020-02-25 23:35
  */
@@ -37,5 +38,9 @@ public class Main {
         LoopQueue<Integer> loopQueue = new LoopQueue<>();
         double time2 = testQueue(loopQueue, opCount);
         System.out.println("LoopQueue, time: " + time2 + " s");
+
+        LinkedListQueue<Integer> linkedListQueue = new LinkedListQueue<>();
+        double time3 = testQueue(linkedListQueue, opCount);
+        System.out.println("LinkedListQueue, time: " + time3 + " s");
     }
 }
