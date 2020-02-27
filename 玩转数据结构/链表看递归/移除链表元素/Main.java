@@ -18,6 +18,7 @@ public class Main {
      * ListNode:1->1->2->2->3->6->4->6->NULL
      * res1:ListNode:1->1->2->2->3->4->NULL
      * res2:ListNode:1->1->2->2->3->4->NULL
+     * res3:ListNode:1->1->2->2->3->4->NULL
      * @param args
      */
     public static void main(String[] args) {
@@ -35,6 +36,9 @@ public class Main {
         // 测试2 虚拟头节点-移除元素
         ListNode res2 = (new Solution2()).removeElements(head, 6);
 
-        System.out.println("res1:"+res1+"\n"+"res2:"+res2);
+        // 测试3 递归节点-移除元素
+        ListNode res3 = (new Solution3()).removeElements(head, 6);
+
+        System.out.println("res1:"+res1+"\n"+"res2:"+res2+"\n"+"res3:"+res3);
     }
 }
