@@ -1,4 +1,4 @@
-package 玩转数据结构.树.二分搜索树;
+package 玩转数据结构.树.二分搜索树实现集合;
 
 /**
  * 二分搜索树
@@ -34,8 +34,7 @@ public class BST<E extends Comparable<E>> {
         return size == 0;
     }
 
-    // 不美丽的添加元素-【两个方法、两次比较根 左右、臃肿递归判断】
-   /* // 向二分搜索树中添加新的元素e
+    // 向二分搜索树中添加新的元素e
     public void add(E e){
 
         if(root == null){
@@ -65,27 +64,5 @@ public class BST<E extends Comparable<E>> {
             add(node.left, e);
         else //e.compareTo(node.e) > 0
             add(node.right, e);
-    }*/
-
-   // 美丽的递归添加元素e-【简化代码-递归理解难度更加抽象】
-   // 向二分搜索树中添加新的元素e
-   public void add(E e){
-       root = add(root, e);
-   }
-
-    // 向以node为根的二分搜索树中插入元素e，递归算法
-    // 返回插入新节点后二分搜索树的根
-    private Node add(Node node, E e){
-        if(node == null){
-            size ++;
-            return new Node(e);
-        }
-
-        if(e.compareTo(node.e) < 0)
-            node.left = add(node.left, e);
-        else if(e.compareTo(node.e) > 0)
-            node.right = add(node.right, e);
-
-        return node;
     }
 }
