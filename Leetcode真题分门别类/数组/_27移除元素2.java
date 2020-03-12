@@ -7,7 +7,7 @@ package Leetcode真题分门别类.数组;
  * 要求：
  * 空间复杂度O(1)
  *
- * 思路：
+ * 思路：双指针-简化写法
  */
 public class _27移除元素2 {
     public int removeElement(int[] nums, int val) {

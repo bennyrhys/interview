@@ -11,18 +11,13 @@ package Leetcode真题分门别类.数组;
  */
 public class _27移除元素 {
     public int removeElement(int[] nums, int val) {
-
-        int count = 0; // 记录val出现的次数
-        int k = 0; // nums中，[0……k]的元素均为非val
-
+        int k = 0; // 慢指针，记录不为val的个数
         for (int i = 0; i < nums.length; i++) {
-
-            if (nums[i] != val) { // 如果出现val和后面交换位置
+            // 不为val的，重新依次存入
+            if (nums[i] != val) {
                 nums[k++] = nums[i];
-            }else {
-                count++;
             }
         }
-        return (nums.length - count);
+        return k;
     }
 }
