@@ -7,7 +7,7 @@ package Leetcode真题分门别类.数组;
  * 时间复杂度：O(n)
  * 空间复杂度：O(1)
  *
- * 思想：【0通过交换位置保留】
+ * 思想：0通过交换位置保留【优化】
  */
 public class _283移动零3 {
 
@@ -18,13 +18,17 @@ public class _283移动零3 {
         // 都按照顺序排列在[0……k中)
         for (int i = 0; i < nums.length; i++) {
             if (nums[i] != 0) {
+                // 防止非零元素自己和自己交换【优化】
+                if (i != k) {
+                    // 交换
+                    int temp = nums[k];
+                    nums[k] = nums[i];
+                    nums[i] = temp;
 
-                // 交换
-                int temp = nums[k];
-                nums[k] = nums[i];
-                nums[i] = temp;
-
-                k++;
+                    k++;
+                }else {
+                    k++;
+                }
             }
         }
     }
