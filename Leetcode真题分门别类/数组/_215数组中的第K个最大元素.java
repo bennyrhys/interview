@@ -20,6 +20,7 @@ public class _215数组中的第K个最大元素 {
         for (int num : nums) {
             System.out.print(num);
         }
+//        System.out.println(nums[-k]);
 
         // 标记k的位置
         int count = 0;
