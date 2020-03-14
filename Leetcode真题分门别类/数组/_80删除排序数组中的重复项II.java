@@ -7,47 +7,50 @@ package Leetcode真题分门别类.数组;
  * 要求：
  * O(1) 额外空间
  *
+ * 思想：
+ * 利用有序性，移除重复2次以上的元素
+ *
  */
 public class _80删除排序数组中的重复项II {
-    public int[] remElement(int[] arr, int index) {
 
-
-
-        for (int i = index + 1; i < arr.length; i++) {
-            arr[i - 1] = arr[i];
-        }
-
-        return arr;
-    }
 
     public int removeDuplicates(int[] nums) {
+        // 起始比较1 ， 重复元素计数， 当前数组长度
+        int i = 1, count = 1, len = nums.length;
 
-        int i = 1, count = 1, length = nums.length;
-
-        while (i < length) {
-
-
-            if (nums[i] == nums[i - 1]) {
-
+        while (i < len) {
+            // 处理重复元素
+            if (nums[i-1] == nums[i]) {
                 count++;
-
-
                 if (count > 2) {
-
-                    this.remElement(nums, i);
-
+                    // 移除重复两次的元素
+                    removeElement(nums, i);
                     i--;
-
-                    length--;
+                    len--;
                 }
-            } else {
-
+            }else {
                 count = 1;
             }
-
             i++;
         }
+        System.out.println(len);
+        return len;
+    }
 
-        return length;
+    // 根据节点,删除对应元素
+    private int[] removeElement(int[] nums, int i) {
+        for (int j = i + 1; j < nums.length; j++) {
+            nums[j - 1] = nums[j];
+        }
+
+        for (int num : nums) {
+            System.out.print(num);
+        }
+        return nums;
+    }
+
+    public static void main(String[] args) {
+        int[] arr = {1,1,1,2,2,3};
+        new _80删除排序数组中的重复项II().removeDuplicates(arr);
     }
 }
