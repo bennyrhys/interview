@@ -13,8 +13,8 @@ package Leetcode真题分门别类.数组;
  */
 public class _75颜色分类2 {
     public void sortColors(int[] nums) {
-        int zero = -1; // [0……zero]
-        int two = nums.length; // [two……n-1]
+        int zero = -1; // [0……zero] = 0
+        int two = nums.length; // [two……n-1] = 2
 
         for (int i = 0; i < two; ) { // 注意此处没有i++，内部循环有不需要++的情况
             if (nums[i] == 2) {
