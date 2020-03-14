@@ -9,7 +9,8 @@ package Leetcode真题分门别类.数组;
  * 双指针，利用有序特点
  *
  * 复杂度
- * 时间：O(n)
+ * 时间：O(m+n)
+ * 空间：O(m)
  */
 public class _88合并两个有序数组2 {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
