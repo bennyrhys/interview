@@ -17,7 +17,11 @@ public class _215数组中的第K个最大元素 {
     public int findKthLargest(int[] nums, int k) {
         // 排序
         Arrays.sort(nums);
-        for (int num : nums) {
+        int n = nums.length;
+        return (nums[n-k]);
+
+        // 愚蠢的手写
+/*        for (int num : nums) {
             System.out.print(num);
         }
 //        System.out.println(nums[-k]);
@@ -32,7 +36,7 @@ public class _215数组中的第K个最大元素 {
 
         }
 
-        return nums[nums.length-1];
+        return nums[nums.length-1];*/
     }
 
     public static void main(String[] args) {
