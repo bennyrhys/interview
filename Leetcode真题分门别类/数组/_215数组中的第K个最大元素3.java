@@ -26,6 +26,10 @@ import java.util.Random;
  *
  * 官方会快16ms，this.做空间优化
  *
+ * 复杂度：
+ * 时间O(n)
+ * 空间O(1)
+ *
  */
 public class _215数组中的第K个最大元素3 {
     // Quick Select
