@@ -180,3 +180,369 @@
 >
 >滑动窗口
 
+## 题目
+
+1. [Leetcode真题分门别类讲解-3数组](https://github.com/bennyrhys/interview/commit/95b79e75a73761518e3315b45e340c78956d318a)
+
+   [![@bennyrhys](https://avatars0.githubusercontent.com/u/31986706?s=60&u=7005c9919002da1197a9e6f0783dac6a737a7074&v=4)](https://github.com/bennyrhys)
+
+   [bennyrhys](https://github.com/bennyrhys/interview/commits?author=bennyrhys) committed 42 seconds ago
+
+   [95b79e7](https://github.com/bennyrhys/interview/commit/95b79e75a73761518e3315b45e340c78956d318a)
+
+    
+
+2. [_76最小覆盖子串 滑动窗口](https://github.com/bennyrhys/interview/commit/a2dba4ca86037b573e998b82112e89d71aea21e3)
+
+   [![@bennyrhys](https://avatars0.githubusercontent.com/u/31986706?s=60&u=7005c9919002da1197a9e6f0783dac6a737a7074&v=4)](https://github.com/bennyrhys)
+
+   [bennyrhys](https://github.com/bennyrhys/interview/commits?author=bennyrhys) committed 2 minutes ago
+
+   [a2dba4c](https://github.com/bennyrhys/interview/commit/a2dba4ca86037b573e998b82112e89d71aea21e3)
+
+    
+
+Commits on Mar 16, 2020
+
+1. [_438找到字符串中所有字母异位词-滑动窗口](https://github.com/bennyrhys/interview/commit/0927d13dee688dc2735ae72e4c5c7ae1d3944d11)
+
+   [![@bennyrhys](https://avatars0.githubusercontent.com/u/31986706?s=60&u=7005c9919002da1197a9e6f0783dac6a737a7074&v=4)](https://github.com/bennyrhys)
+
+   [bennyrhys](https://github.com/bennyrhys/interview/commits?author=bennyrhys) committed 6 days ago
+
+   [0927d13](https://github.com/bennyrhys/interview/commit/0927d13dee688dc2735ae72e4c5c7ae1d3944d11)
+
+    
+
+2. [_3无重复字符的最长子串-滑动窗口](https://github.com/bennyrhys/interview/commit/027aabec3106a1805733a59f5297974f3506f933)
+
+   [![@bennyrhys](https://avatars0.githubusercontent.com/u/31986706?s=60&u=7005c9919002da1197a9e6f0783dac6a737a7074&v=4)](https://github.com/bennyrhys)
+
+   [bennyrhys](https://github.com/bennyrhys/interview/commits?author=bennyrhys) committed 6 days ago
+
+   [027aabe](https://github.com/bennyrhys/interview/commit/027aabec3106a1805733a59f5297974f3506f933)
+
+    
+
+3. [_209长度最小的子数组-双指针滑动窗口](https://github.com/bennyrhys/interview/commit/2ae3fb3c77007c8adb4178602423216b29183edb)
+
+   [![@bennyrhys](https://avatars0.githubusercontent.com/u/31986706?s=60&u=7005c9919002da1197a9e6f0783dac6a737a7074&v=4)](https://github.com/bennyrhys)
+
+   [bennyrhys](https://github.com/bennyrhys/interview/commits?author=bennyrhys) committed 6 days ago
+
+   [2ae3fb3](https://github.com/bennyrhys/interview/commit/2ae3fb3c77007c8adb4178602423216b29183edb)
+
+    
+
+4. [_209长度最小的子数组-暴力优化求和版](https://github.com/bennyrhys/interview/commit/d7c1b263f716413479e4cdbff1e014c88cb23515)
+
+   [![@bennyrhys](https://avatars0.githubusercontent.com/u/31986706?s=60&u=7005c9919002da1197a9e6f0783dac6a737a7074&v=4)](https://github.com/bennyrhys)
+
+   [bennyrhys](https://github.com/bennyrhys/interview/commits?author=bennyrhys) committed 6 days ago
+
+   [d7c1b26](https://github.com/bennyrhys/interview/commit/d7c1b263f716413479e4cdbff1e014c88cb23515)
+
+    
+
+5. [_11盛最多水的容器-对撞指针](https://github.com/bennyrhys/interview/commit/a0580e0c4dcf2e7dec3da4e93462b563777decc0)
+
+   [![@bennyrhys](https://avatars0.githubusercontent.com/u/31986706?s=60&u=7005c9919002da1197a9e6f0783dac6a737a7074&v=4)](https://github.com/bennyrhys)
+
+   [bennyrhys](https://github.com/bennyrhys/interview/commits?author=bennyrhys) committed 6 days ago
+
+   [a0580e0](https://github.com/bennyrhys/interview/commit/a0580e0c4dcf2e7dec3da4e93462b563777decc0)
+
+    
+
+6. [___345反转字符串中的元音字母-对撞指针](https://github.com/bennyrhys/interview/commit/a4aec8218795afe7ca3f8e65043e1a0bf353d03f)
+
+   [![@bennyrhys](https://avatars0.githubusercontent.com/u/31986706?s=60&u=7005c9919002da1197a9e6f0783dac6a737a7074&v=4)](https://github.com/bennyrhys)
+
+   [bennyrhys](https://github.com/bennyrhys/interview/commits?author=bennyrhys) committed 6 days ago
+
+   [a4aec82](https://github.com/bennyrhys/interview/commit/a4aec8218795afe7ca3f8e65043e1a0bf353d03f)
+
+    
+
+7. [__344反转字符串-双指针对撞](https://github.com/bennyrhys/interview/commit/ca6bb19448dcaedd7523b90f791984a679df3394)
+
+   [![@bennyrhys](https://avatars0.githubusercontent.com/u/31986706?s=60&u=7005c9919002da1197a9e6f0783dac6a737a7074&v=4)](https://github.com/bennyrhys)
+
+   [bennyrhys](https://github.com/bennyrhys/interview/commits?author=bennyrhys) committed 6 days ago
+
+   [ca6bb19](https://github.com/bennyrhys/interview/commit/ca6bb19448dcaedd7523b90f791984a679df3394)
+
+    
+
+8. [_125验证回文串-双指针对撞](https://github.com/bennyrhys/interview/commit/2ea040fabadc88bc2a16cb2ba806fec606a56583)
+
+   [![@bennyrhys](https://avatars0.githubusercontent.com/u/31986706?s=60&u=7005c9919002da1197a9e6f0783dac6a737a7074&v=4)](https://github.com/bennyrhys)
+
+   [bennyrhys](https://github.com/bennyrhys/interview/commits?author=bennyrhys) committed 6 days ago
+
+   [2ea040f](https://github.com/bennyrhys/interview/commit/2ea040fabadc88bc2a16cb2ba806fec606a56583)
+
+    
+
+9. [_125验证回文串-库函数](https://github.com/bennyrhys/interview/commit/94c83d910dadcb4e4e03460d230090edec9bcc30)
+
+   [![@bennyrhys](https://avatars0.githubusercontent.com/u/31986706?s=60&u=7005c9919002da1197a9e6f0783dac6a737a7074&v=4)](https://github.com/bennyrhys)
+
+   [bennyrhys](https://github.com/bennyrhys/interview/commits?author=bennyrhys) committed 6 days ago
+
+   [94c83d9](https://github.com/bennyrhys/interview/commit/94c83d910dadcb4e4e03460d230090edec9bcc30)
+
+    
+
+10. [_167两数之和_输入有序数组-对撞指针，利用有序性](https://github.com/bennyrhys/interview/commit/d9e39f0e37ab240ba6d59725bb3c68c92064dfd5)
+
+    [![@bennyrhys](https://avatars0.githubusercontent.com/u/31986706?s=60&u=7005c9919002da1197a9e6f0783dac6a737a7074&v=4)](https://github.com/bennyrhys)
+
+    [bennyrhys](https://github.com/bennyrhys/interview/commits?author=bennyrhys) committed 7 days ago
+
+    [d9e39f0](https://github.com/bennyrhys/interview/commit/d9e39f0e37ab240ba6d59725bb3c68c92064dfd5)
+
+     
+
+11. [_167两数之和_输入有序数组-二分查找,有序](https://github.com/bennyrhys/interview/commit/6175f9381acb195d664488aeab215fe77b2a21d6)
+
+    [![@bennyrhys](https://avatars0.githubusercontent.com/u/31986706?s=60&u=7005c9919002da1197a9e6f0783dac6a737a7074&v=4)](https://github.com/bennyrhys)
+
+    [bennyrhys](https://github.com/bennyrhys/interview/commits?author=bennyrhys) committed 7 days ago
+
+    [6175f93](https://github.com/bennyrhys/interview/commit/6175f9381acb195d664488aeab215fe77b2a21d6)
+
+     
+
+Commits on Mar 15, 2020
+
+1. [_167两数之和_输入有序数组-暴力,未用上有序](https://github.com/bennyrhys/interview/commit/a91709aaec3aeeb00b3187ebab1616c46edf120e)
+
+   [![@bennyrhys](https://avatars0.githubusercontent.com/u/31986706?s=60&u=7005c9919002da1197a9e6f0783dac6a737a7074&v=4)](https://github.com/bennyrhys)
+
+   [bennyrhys](https://github.com/bennyrhys/interview/commits?author=bennyrhys) committed 7 days ago
+
+   [a91709a](https://github.com/bennyrhys/interview/commit/a91709aaec3aeeb00b3187ebab1616c46edf120e)
+
+    
+
+2. [_167两数之和_输入有序数组-暴力,未用上有序](https://github.com/bennyrhys/interview/commit/52c8f7662c9065b9aec3a0b3db939b1a5b182880)
+
+   [![@bennyrhys](https://avatars0.githubusercontent.com/u/31986706?s=60&u=7005c9919002da1197a9e6f0783dac6a737a7074&v=4)](https://github.com/bennyrhys)
+
+   [bennyrhys](https://github.com/bennyrhys/interview/commits?author=bennyrhys) committed 7 days ago
+
+   [52c8f76](https://github.com/bennyrhys/interview/commit/52c8f7662c9065b9aec3a0b3db939b1a5b182880)
+
+    
+
+3. [_215数组中的第K个最大元素-快速选择](https://github.com/bennyrhys/interview/commit/c6a84fdc680c34057ced42f75088c5a066727760)
+
+   [![@bennyrhys](https://avatars0.githubusercontent.com/u/31986706?s=60&u=7005c9919002da1197a9e6f0783dac6a737a7074&v=4)](https://github.com/bennyrhys)
+
+   [bennyrhys](https://github.com/bennyrhys/interview/commits?author=bennyrhys) committed 7 days ago
+
+   [c6a84fd](https://github.com/bennyrhys/interview/commit/c6a84fdc680c34057ced42f75088c5a066727760)
+
+    
+
+4. [_215数组中的第K个最大元素-快速选择](https://github.com/bennyrhys/interview/commit/fbb7077dad68f94cca2f2afedb00c17ef52e2cfd)
+
+   [![@bennyrhys](https://avatars0.githubusercontent.com/u/31986706?s=60&u=7005c9919002da1197a9e6f0783dac6a737a7074&v=4)](https://github.com/bennyrhys)
+
+   [bennyrhys](https://github.com/bennyrhys/interview/commits?author=bennyrhys) committed 7 days ago
+
+   [fbb7077](https://github.com/bennyrhys/interview/commit/fbb7077dad68f94cca2f2afedb00c17ef52e2cfd)
+
+    
+
+5. [_215数组中的第K个最大元素-当数据不重复直接返回就行](https://github.com/bennyrhys/interview/commit/a7d62d31d9a28462f544c9c68c0f449d1f960c4f)
+
+   [![@bennyrhys](https://avatars0.githubusercontent.com/u/31986706?s=60&u=7005c9919002da1197a9e6f0783dac6a737a7074&v=4)](https://github.com/bennyrhys)
+
+   [bennyrhys](https://github.com/bennyrhys/interview/commits?author=bennyrhys) committed 7 days ago
+
+   [a7d62d3](https://github.com/bennyrhys/interview/commit/a7d62d31d9a28462f544c9c68c0f449d1f960c4f)
+
+    
+
+6. [_215数组中的第K个最大元素-最大堆](https://github.com/bennyrhys/interview/commit/3de8c0741f7a13c07d03e1d5a753b49490c9dc1c)
+
+   [![@bennyrhys](https://avatars0.githubusercontent.com/u/31986706?s=60&u=7005c9919002da1197a9e6f0783dac6a737a7074&v=4)](https://github.com/bennyrhys)
+
+   [bennyrhys](https://github.com/bennyrhys/interview/commits?author=bennyrhys) committed 8 days ago
+
+   [3de8c07](https://github.com/bennyrhys/interview/commit/3de8c0741f7a13c07d03e1d5a753b49490c9dc1c)
+
+    
+
+Commits on Mar 14, 2020
+
+1. [_215数组中的第K个最大元素-库函数](https://github.com/bennyrhys/interview/commit/095a994249d532018c746eaa056c988965055037)
+
+   [![@bennyrhys](https://avatars0.githubusercontent.com/u/31986706?s=60&u=7005c9919002da1197a9e6f0783dac6a737a7074&v=4)](https://github.com/bennyrhys)
+
+   [bennyrhys](https://github.com/bennyrhys/interview/commits?author=bennyrhys) committed 8 days ago
+
+   [095a994](https://github.com/bennyrhys/interview/commit/095a994249d532018c746eaa056c988965055037)
+
+    
+
+2. [_88合并两个有序数组2-双指针](https://github.com/bennyrhys/interview/commit/8c61eec2530091086f0d27a8f713fedd55c5f42d)
+
+   [![@bennyrhys](https://avatars0.githubusercontent.com/u/31986706?s=60&u=7005c9919002da1197a9e6f0783dac6a737a7074&v=4)](https://github.com/bennyrhys)
+
+   [bennyrhys](https://github.com/bennyrhys/interview/commits?author=bennyrhys) committed 8 days ago
+
+   [8c61eec](https://github.com/bennyrhys/interview/commit/8c61eec2530091086f0d27a8f713fedd55c5f42d)
+
+    
+
+3. [_88合并两个有序数组2-双指针](https://github.com/bennyrhys/interview/commit/6c551b27f8be8ccdebf754932e3fd14be4a0140b)
+
+   [![@bennyrhys](https://avatars0.githubusercontent.com/u/31986706?s=60&u=7005c9919002da1197a9e6f0783dac6a737a7074&v=4)](https://github.com/bennyrhys)
+
+   [bennyrhys](https://github.com/bennyrhys/interview/commits?author=bennyrhys) committed 8 days ago
+
+   [6c551b2](https://github.com/bennyrhys/interview/commit/6c551b27f8be8ccdebf754932e3fd14be4a0140b)
+
+    
+
+4. [_88合并两个有序数组2-双指针](https://github.com/bennyrhys/interview/commit/9f65bdfd49b73982f72489acc1c2f5c970f865eb)
+
+   [![@bennyrhys](https://avatars0.githubusercontent.com/u/31986706?s=60&u=7005c9919002da1197a9e6f0783dac6a737a7074&v=4)](https://github.com/bennyrhys)
+
+   [bennyrhys](https://github.com/bennyrhys/interview/commits?author=bennyrhys) committed 8 days ago
+
+   [9f65bdf](https://github.com/bennyrhys/interview/commit/9f65bdfd49b73982f72489acc1c2f5c970f865eb)
+
+    
+
+5. [_88合并两个有序数组-库函数](https://github.com/bennyrhys/interview/commit/681fc31b8884350ba13fe27abef487b21f0d34e3)
+
+   [![@bennyrhys](https://avatars0.githubusercontent.com/u/31986706?s=60&u=7005c9919002da1197a9e6f0783dac6a737a7074&v=4)](https://github.com/bennyrhys)
+
+   [bennyrhys](https://github.com/bennyrhys/interview/commits?author=bennyrhys) committed 8 days ago
+
+   [681fc31](https://github.com/bennyrhys/interview/commit/681fc31b8884350ba13fe27abef487b21f0d34e3)
+
+    
+
+6. [_75颜色分类-三路快排](https://github.com/bennyrhys/interview/commit/719273e25fe1c7698db5e01dcd010fa2a4bcd4e8)
+
+   [![@bennyrhys](https://avatars0.githubusercontent.com/u/31986706?s=60&u=7005c9919002da1197a9e6f0783dac6a737a7074&v=4)](https://github.com/bennyrhys)
+
+   [bennyrhys](https://github.com/bennyrhys/interview/commits?author=bennyrhys) committed 8 days ago
+
+   [719273e](https://github.com/bennyrhys/interview/commit/719273e25fe1c7698db5e01dcd010fa2a4bcd4e8)
+
+    
+
+7. [_75颜色分类-三路快排](https://github.com/bennyrhys/interview/commit/91b22745b403a8483455d390d617317c9c952cab)
+
+   [![@bennyrhys](https://avatars0.githubusercontent.com/u/31986706?s=60&u=7005c9919002da1197a9e6f0783dac6a737a7074&v=4)](https://github.com/bennyrhys)
+
+   [bennyrhys](https://github.com/bennyrhys/interview/commits?author=bennyrhys) committed 8 days ago
+
+   [91b2274](https://github.com/bennyrhys/interview/commit/91b22745b403a8483455d390d617317c9c952cab)
+
+    
+
+8. [_75颜色分类](https://github.com/bennyrhys/interview/commit/4ae3842b048776762ba2ebbc13ce1450a4212cc3)
+
+   [![@bennyrhys](https://avatars0.githubusercontent.com/u/31986706?s=60&u=7005c9919002da1197a9e6f0783dac6a737a7074&v=4)](https://github.com/bennyrhys)
+
+   [bennyrhys](https://github.com/bennyrhys/interview/commits?author=bennyrhys) committed 8 days ago
+
+   [4ae3842](https://github.com/bennyrhys/interview/commit/4ae3842b048776762ba2ebbc13ce1450a4212cc3)
+
+    
+
+9. [_80删除排序数组中的重复项II](https://github.com/bennyrhys/interview/commit/702b5ecacf5c49357b1454af31632ad0a4cdce39)
+
+   [![@bennyrhys](https://avatars0.githubusercontent.com/u/31986706?s=60&u=7005c9919002da1197a9e6f0783dac6a737a7074&v=4)](https://github.com/bennyrhys)
+
+   [bennyrhys](https://github.com/bennyrhys/interview/commits?author=bennyrhys) committed 9 days ago
+
+   [702b5ec](https://github.com/bennyrhys/interview/commit/702b5ecacf5c49357b1454af31632ad0a4cdce39)
+
+    
+
+10. [_80删除排序数组中的重复项II](https://github.com/bennyrhys/interview/commit/06d6d56139c8356abf8f0b3969e3ed80fa798d03)
+
+    [![@bennyrhys](https://avatars0.githubusercontent.com/u/31986706?s=60&u=7005c9919002da1197a9e6f0783dac6a737a7074&v=4)](https://github.com/bennyrhys)
+
+    [bennyrhys](https://github.com/bennyrhys/interview/commits?author=bennyrhys) committed 9 days ago
+
+    [06d6d56](https://github.com/bennyrhys/interview/commit/06d6d56139c8356abf8f0b3969e3ed80fa798d03)
+
+     
+
+Commits on Mar 13, 2020
+
+1. [_80删除排序数组中的重复项II](https://github.com/bennyrhys/interview/commit/380d8e428e1cd549c6100ccf8428990b8f6c09dc)
+
+   [![@bennyrhys](https://avatars0.githubusercontent.com/u/31986706?s=60&u=7005c9919002da1197a9e6f0783dac6a737a7074&v=4)](https://github.com/bennyrhys)
+
+   [bennyrhys](https://github.com/bennyrhys/interview/commits?author=bennyrhys) committed 9 days ago
+
+   [380d8e4](https://github.com/bennyrhys/interview/commit/380d8e428e1cd549c6100ccf8428990b8f6c09dc)
+
+    
+
+Commits on Mar 12, 2020
+
+1. [Leetcode.数组._26删除排序数组中的重复项](https://github.com/bennyrhys/interview/commit/23e2ccba98298d4dd948302632da4b24a1dbeceb)
+
+   [![@bennyrhys](https://avatars0.githubusercontent.com/u/31986706?s=60&u=7005c9919002da1197a9e6f0783dac6a737a7074&v=4)](https://github.com/bennyrhys)
+
+   [bennyrhys](https://github.com/bennyrhys/interview/commits?author=bennyrhys) committed 10 days ago
+
+   [23e2ccb](https://github.com/bennyrhys/interview/commit/23e2ccba98298d4dd948302632da4b24a1dbeceb)
+
+    
+
+2. [Leetcode.数组.27移除元素-简化代码双指针](https://github.com/bennyrhys/interview/commit/107e67bd04408314f4de2de42c90013839d569f0)
+
+   [![@bennyrhys](https://avatars0.githubusercontent.com/u/31986706?s=60&u=7005c9919002da1197a9e6f0783dac6a737a7074&v=4)](https://github.com/bennyrhys)
+
+   [bennyrhys](https://github.com/bennyrhys/interview/commits?author=bennyrhys) committed 10 days ago
+
+   [107e67b](https://github.com/bennyrhys/interview/commit/107e67bd04408314f4de2de42c90013839d569f0)
+
+    
+
+3. [Leetcode.数组.27移除元素](https://github.com/bennyrhys/interview/commit/5adda75a73ab7834a45609c127318606ed3bb790)
+
+   [![@bennyrhys](https://avatars0.githubusercontent.com/u/31986706?s=60&u=7005c9919002da1197a9e6f0783dac6a737a7074&v=4)](https://github.com/bennyrhys)
+
+   [bennyrhys](https://github.com/bennyrhys/interview/commits?author=bennyrhys) committed 10 days ago
+
+   [5adda75](https://github.com/bennyrhys/interview/commit/5adda75a73ab7834a45609c127318606ed3bb790)
+
+    
+
+4. [Leetcode.数组.283移动零-交换](https://github.com/bennyrhys/interview/commit/a67ff428ab6e3825d3cc40843ddf13d578acc594)
+
+   [![@bennyrhys](https://avatars0.githubusercontent.com/u/31986706?s=60&u=7005c9919002da1197a9e6f0783dac6a737a7074&v=4)](https://github.com/bennyrhys)
+
+   [bennyrhys](https://github.com/bennyrhys/interview/commits?author=bennyrhys) committed 10 days ago
+
+   [a67ff42](https://github.com/bennyrhys/interview/commit/a67ff428ab6e3825d3cc40843ddf13d578acc594)
+
+    
+
+5. [Leetcode.数组.283移动零-优化空间](https://github.com/bennyrhys/interview/commit/1bdd3fabaa250da6252583c6a78dbecfaa21b5fe)
+
+   [![@bennyrhys](https://avatars0.githubusercontent.com/u/31986706?s=60&u=7005c9919002da1197a9e6f0783dac6a737a7074&v=4)](https://github.com/bennyrhys)
+
+   [bennyrhys](https://github.com/bennyrhys/interview/commits?author=bennyrhys) committed 10 days ago
+
+# 第4章 查找表相关问题
+
+> 查找有无Set
+>
+> 查找对应关系Map
+>
+> 共同特点：键不允许重复
+
